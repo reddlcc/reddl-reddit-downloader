@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Fast Reddit Video Downloader with Audio | Download Reddit Videos & Images</title>
 
 <meta name="description" content="Download Reddit videos with audio and images instantly using a fast Reddit downloader. Free Reddit video downloader online with MP4 and MP3 support.">
