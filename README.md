@@ -1,6 +1,4 @@
 
-<title>Fast Reddit Video Downloader with Audio | Download Reddit Videos & Images</title>
-
 <meta name="description" content="Download Reddit videos with audio and images instantly using a fast Reddit downloader. Free Reddit video downloader online with MP4 and MP3 support.">
 
 <meta name="keywords" content="Reddit Video Downloader, Reddit Downloader with Audio, Download Reddit Videos Online, Reddit to MP3, Reddit MP4 Download, Free Reddit Downloader">
